@@ -1,0 +1,15 @@
+#weight, #bags {
+	position: relative;
+	height: 70px;
+	display: inline-block;
+	width: 95%;
+	left: 2%;
+	vertical-align: top;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+
+input[type="number"], #weightInput {
+	display: inline;
+	width: 5ex;
+}
